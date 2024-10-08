@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedsufiyan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sufiyan-23735919b" height="30" width="40" /></a>
 <a href="https://instagram.com/mohd_sufiyan_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd_sufiyan_03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sufiyan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sufiyan03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sufiyan03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sufiyan03" height="30" width="40" /></a>
 </p> 
 
 # 💻 Tech Stack:
