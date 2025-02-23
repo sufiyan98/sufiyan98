@@ -1,5 +1,5 @@
 <h1 align="center"> 💫 About Me</h1>
-<h3 align="center">🔭 I’m currently working in Virtusa as a Java full stack developer</h3>
+<h3 align="center">🔭 I’m a Java Full Stack Developer with more than 2.7+ YOE</h3>
 <h3 align="center">💰 A passionate Java Full Stack Developer from India</h3>
 <h3 align="center">📫 How to reach me **mohammedsufiyan2001@gmail.com**</h3>
 
