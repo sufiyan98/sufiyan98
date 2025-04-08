@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me</h1>
-<h3 align="center">🔭 I’m a Java Full Stack Developer with 2.10+ YOE</h3>
+<h3 align="center">🔭 I’m a Java Full Stack Developer with around 3 Years of experience</h3>
 <h3 align="center">💰 A passionate Java Full Stack Developer from India</h3>
-<h3 align="center">📫 How to reach me **mohammedsufiyan2001@gmail.com**</h3>
+<h3 align="center">📫 How to reach me <b/>mohammedsufiyan2001@gmail.com</h3>
 
 
 
